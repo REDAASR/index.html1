@@ -1,0 +1,17 @@
+#ps1{
+    border: 2px black solid;
+    width: 25%;
+    height: 40vh;
+}
+img[alt="ps2"]{
+    position: relative;
+    width: 80%;
+    height: 35vh;
+    left: 20px;
+    top: 25px;
+}
+img[alt="ps2"]:hover{
+    width: 90%;
+    height: 35vh;
+    transition: 2s;
+}
